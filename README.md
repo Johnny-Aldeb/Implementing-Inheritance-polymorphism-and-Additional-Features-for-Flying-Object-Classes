@@ -1,1 +1,2 @@
-# Implementing-Inheritance-polymorphism-and-Additional-Features-for-Flying-Object-Classes
+# Implementing-Inheritance-polymorphism-and-Additional-Features-for-Flying-Object-Classes (Java)
+creating classes in Java using inheritance and implementing features such as constructors, access rights, method overriding, interface inheritance, abstract classes, and packages. The classes represent different types of flying objects, including airplanes, helicopters, quadcopters, multirotors, unmanned aerial vehicles (UAVs), agricultural drones, and micro air vehicles (MAVs).
