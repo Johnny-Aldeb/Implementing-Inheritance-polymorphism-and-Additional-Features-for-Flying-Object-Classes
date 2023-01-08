@@ -1,9 +1,4 @@
-// -----------------------------------------------------
-//Written by: Johnny Aldeb
-//Student ID: 40187248
-//COMP249 Assignment #2
-//Due Date: Friday, October 28, 2022
-// -----------------------------------------------------
+
 
 package package2;
 
